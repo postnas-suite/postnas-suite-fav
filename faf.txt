@@ -1,0 +1,20 @@
+AX_IndustrieUndGewerbeflaeche.funktion=2510&foerdergut=1000|Förderanlage - Erdöl
+AX_IndustrieUndGewerbeflaeche.funktion=2510&foerdergut=2000|Förderanlage - Erdgas
+AX_TagebauGrubeSteinbruch.abbaugut=4010|Tagebau, Grube, Steinbruch - Torf
+AX_Bahnverkehr.bahnkategorie=1300|Seilbahn, Bergbahn
+AX_UnlandVegetationsloseFlaeche.funktion=1000&oberflaechenmaterial=1010|Vegetationslose Fläche, Fels
+AX_UnlandVegetationsloseFlaeche.funktion=1000&oberflaechenmaterial=1040|Vegetationslose Fläche, Sand
+AX_Schutzzone.zone=1010.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1510|Wasserschutzgebiet - Zone I
+AX_Schutzzone.zone=1020.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1510|Wasserschutzgebiet - Zone II
+AX_Schutzzone.zone=1030.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1510|Wasserschutzgebiet - Zone III
+AX_Schutzzone.zone=1040.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1510|Wasserschutzgebiet - Zone IV
+AX_Schutzzone.zone=1010.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1520|Heilquellenschutzgebiet - Zone I
+AX_Schutzzone.zone=1020.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1520|Heilquellenschutzgebiet - Zone II
+AX_Schutzzone.zone=1030.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1520|Heilquellenschutzgebiet - Zone III
+AX_Schutzzone.zone=1040.istTeilVon.AX_SchutzgebietNachWasserrecht.artDerFestlegung=1520|Heilquellenschutzgebiet - Zone IV
+AX_Schutzzone.zone=1010.istTeilVon.AX_SchutzgebietNachNaturUmweltOderBodenschutzrecht.artDerFestlegung=1670|Nationalpark - Zone I
+AX_Schutzzone.zone=1020.istTeilVon.AX_SchutzgebietNachNaturUmweltOderBodenschutzrecht.artDerFestlegung=1670|Nationalpark - Zone II
+AX_Schutzzone.zone=1030.istTeilVon.AX_SchutzgebietNachNaturUmweltOderBodenschutzrecht.artDerFestlegung=1670|Nationalpark - Zone III
+AX_Schutzzone.zone=1040.istTeilVon.AX_SchutzgebietNachNaturUmweltOderBodenschutzrecht.artDerFestlegung=1670|Nationalpark - Zone IV
+AX_Bodenschaetzung.bodenzahlOderGruenlandgrundzahl=<Attributwert>|<Attributwert>
+AX_Bodenschaetzung.ackerzahlOderGruenlandzahl=<Attributwert>|<Attributwert>

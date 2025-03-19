@@ -1,0 +1,82 @@
+# Nutzungen
+tng.AX_Wohnbauflaeche=Wohnbaufläche
+tng.AX_IndustrieUndGewerbeflaeche=Industrie- und Gewerbefläche
+tng.AX_IndustrieUndGewerbeflaeche.funktion=ax_funktion_industrieundgewerbeflaeche
+tng.AX_Halde=Halde
+tng.AX_Bergbaubetrieb=Bergbaubetrieb
+tng.AX_TagebauGrubeSteinbruch=Tagebau, Grube, Steinbruch
+tng.AX_TagebauGrubeSteinbruch.abbaugut=ax_abbaugut_tagebaugrubesteinbruch
+tng.AX_FlaecheGemischterNutzung=Fläche gemischter Nutzung
+tng.AX_FlaecheGemischterNutzung.funktion=ax_funktion_flaechegemischternutzung
+tng.AX_FlaecheBesondererFunktionalerPraegung=Fläche besonderer funktionaler Prägung
+tng.AX_FlaecheBesondererFunktionalerPraegung.funktion=ax_funktion_flaechebesondererfunktionalerpraegung
+tng.AX_SportFreizeitundErholungsflaeche=Sport-, Freizeit- und Erholungsfläche
+tng.AX_SportFreizeitundErholungsflaeche.funktion=ax_funktion_sportfreizeitunderholungsflaeche
+tng.AX_Friedhof=Friedhof
+tng.AX_Friedhof.funktion=ax_funktion_friedhof
+tng.AX_Strassenverkehr=Straßenverkehr
+tng.AX_Strassenverkehr.funktion=ax_funktion_strasse
+tng.AX_Weg=Weg
+tng.AX_Weg.funktion=ax_funktion_weg
+tng.AX_Platz=Platz
+tng.AX_Platz.funktion=ax_funktion_platz
+tng.AX_Bahnverkehr=Bahnverkehr
+tng.AX_Bahnverkehr.funktion=ax_funktion_bahnverkehr
+tng.AX_Bahnverkehr.bahnkategorie=ax_bahnkategorie_gleis
+tng.AX_Flugverkehr=Flugverkehr
+tng.AX_Flugverkehr.funktion=ax_funktion_flugverkehr
+tng.AX_Flugverkehr.art=ax_art_flugverkehr
+tng.AX_Schiffsverkehr=Schiffsverkehr
+tng.AX_Schiffsverkehr.funktion=ax_funktion_schiffsverkehr
+tng.AX_Landwirtschaft=Landwirtschaft
+tng.AX_Landwirtschaft.vegetationsmerkmal=ax_vegetationsmerkmal_landwirtschaft
+tng.AX_Wald=Wald
+tng.AX_Wald.vegetationsmerkmal=ax_vegetationsmerkmal_wald
+tng.AX_Gehoelz=Gehölz
+tng.AX_Heide=Heide
+tng.AX_Moor=Moor
+tng.AX_Sumpf=Sumpf
+tng.AX_UnlandVegetationsloseFlaeche=Unland, Vegetationslose Fläche
+tng.AX_UnlandVegetationsloseFlaeche.funktion=ax_funktion_unlandvegetationsloseflaeche
+tng.AX_Fliessgewaesser=Fließgewässer
+tng.AX_Fliessgewaesser.funktion=ax_funktion_fliessgewaesser
+tng.AX_Hafenbecken=Hafenbecken
+tng.AX_StehendesGewaesser=Stehendes Gewässer
+tng.AX_StehendesGewaesser.funktion=ax_funktion_stehendesgewaesser
+tng.AX_Meer=Meer
+
+# Rechtliche Festlegungen
+osf.AX_KlassifizierungNachStrassenrecht.artDerFestlegung=ax_artderfestlegung_klassifizierungnachstrassenrecht
+osf.AX_KlassifizierungNachWasserrecht.artDerFestlegung=ax_artderfestlegung_klassifizierungnachwasserrecht
+osf.AX_AndereFestlegungNachWasserrecht.artDerFestlegung=ax_artderfestlegung_anderefestlegungnachwasserrecht
+osf.AX_AndereFestlegungNachStrassenrecht.artDerFestlegung=ax_artderfestlegung_anderefestlegungnachstrassenrecht
+osf.AX_SchutzgebietNachWasserrecht.artDerFestlegung=ax_artderfestlegung_schutzgebietnachwasserrecht
+osf.AX_NaturUmweltOderBodenschutzrecht.artDerFestlegung=ax_artderfestlegung_naturumweltoderbodenschutzrecht
+osf.AX_BauRaumOderBodenordnungsrecht.artDerFestlegung=ax_artderfestlegung_bauraumoderbodenordnungsrecht
+osf.AX_Denkmalschutzrecht.artDerFestlegung=ax_artderfestlegung_denkmalschutzrecht
+osf.AX_SonstigesRecht.artDerFestlegung=ax_artderfestlegung_sonstigesrecht
+osf.AX_Forstrecht.artDerFestlegung=ax_artderfestlegung_forstrecht
+
+osf.ax_schutzgebietnachnaturumweltoderbodenschutzrecht=Schutzgebiet nach Natur-, Umwelt- oder Bodenschutzrecht
+
+# Ausführende Stellen
+osf.AX_KlassifizierungNachStrassenrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung
+osf.AX_KlassifizierungNachWasserrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung&append=''||coalesce(', Bezeichnung '||bezeichnung,'')||''&attributes=bezeichnung
+osf.AX_AndereFestlegungNachWasserrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung
+osf.AX_SchutzgebietNachWasserrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung
+osf.AX_NaturUmweltOderBodenschutzrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung&append=''||coalesce(', Bezeichnung '||bezeichnung,'')||''&attributes=bezeichnung
+osf.AX_BauRaumOderBodenordnungsrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung&append=''||coalesce(', Bezeichnung '||bezeichnung,'')||''&attributes=bezeichnung
+osf.AX_Denkmalschutzrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung&append=''||coalesce(', Bezeichnung '||bezeichnung,'')||''&attributes=bezeichnung
+osf.AX_SonstigesRecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung&append=''||coalesce(', Bezeichnung '||bezeichnung,'')||''&attributes=bezeichnung
+osf.AX_Forstrecht.land|stelle=ax_dienststelle.land|stelle.bezeichnung&append=''||coalesce(', Bezeichnung '||bezeichnung,'')||''&attributes=bezeichnung
+
+# Bodenschätzung & Bewertung
+bub.AX_Bewertung.klassifizierung=ax_klassifizierung_bewertung&prepend='Bewertung - '
+bub.AX_Bodenschaetzung.nutzungsart=ax_nutzungsart_bodenschaetzung&prepend='Kulturart '
+bub.AX_Bodenschaetzung.bodenart=ax_bodenart_bodenschaetzung&prepend='Bodenart '
+bub.AX_Bodenschaetzung.zustandsstufe=ax_zustandsstufe
+bub.AX_Bodenschaetzung.bodenstufe=ax_bodenstufe
+bub.AX_Bodenschaetzung.entstehungsart=ax_entstehungsart
+bub.AX_Bodenschaetzung.klimastufe=ax_klimastufe
+bub.AX_Bodenschaetzung.wasserverhaeltnisse=ax_wasserverhaeltnisse
+bub.AX_Bodenschaetzung.sonstigeAngaben=ax_sonstigeangaben_bodenschaetzung
