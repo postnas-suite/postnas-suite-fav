@@ -155,3 +155,6 @@ Attribut das der ursprünglichen Tabelle, das in die jeweilige Abschnittstabelle
 Treffen keine Regeln zu entfällt der Abschnitt. 
 
 Für die Tabellen `ax_schutzgebietnachwasserrecht` und `ax_schutzgebietnachnaturumweltoderbodenschutzrecht` wird automatisch die Tabelle `ax_schutzzone` für die Geometrie einbezogen, wenn sie nicht bereits durch die Relationsvariante angegeben sind.
+
+
+Lizenz: [GNU GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
